@@ -8,6 +8,6 @@ Aulas ministradas pela Profª. Dra. Denise Stringhini.
 
 # COMPUTER ARCHITECTURE AND ORGANIZATION 🇺🇸
 
-Challenges in MIPS developed using the provided Code Test by UNIFESP and tested on the Judge for evaluation of the subject.
-Developed at UNIFESP - University Of São Paulo State.
-Classes taught by Prof. Dr. Denise Stringhini.
+Challenges in MIPS developed using the provided Code Test by UNIFESP and tested on the Judge for evaluation of the subject.  
+Developed at UNIFESP - University Of São Paulo State.  
+Classes taught by Prof. Dr. Denise Stringhini.  
