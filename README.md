@@ -1,3 +1,5 @@
+Description in progres....
+
 # ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES 🇧🇷  
 
 Desafios em MIPS desenvolvidos com o Code Test providenciado pela UNIFESP e testados no Judge para avaliação da matéria.  
